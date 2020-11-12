@@ -1,0 +1,17 @@
+資料資源欄位: 
+SiteName(測站名稱)、County(城市)、Township(鄉鎮)、SiteAddress(地址)、SiteId(測站代碼)、TWD97Lon(經度(TWD97))、TWD97Lat(緯度(TWD97))、TWD97TM2X(TWD97TM2X)、TWD97TM2Y(TWD97TM2Y)、DataSource(所屬單位)
+
+檔案格式: 
+JSON
+
+編碼格式: 
+UTF-8
+
+資料量: 
+資料下載網址:
+ 
+https://data.epa.gov.tw/api/v1/aqx_p_447?limit=100000&api_key=9be7b239-557b-4c10-9775-78cadfc555e9&format=json
+
+資料資源描述: 
+交通空氣品質監測站基本資料-JSON
+資料資源更新時間: 

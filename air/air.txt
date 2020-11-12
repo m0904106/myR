@@ -1,0 +1,13 @@
+資料資源欄位: 
+Content(預報內容)、Area(空品區)、MajorPollutant(指標污染物)、AQI(空氣品質指標預報值)、ForecastDate(預報日期)、MinorPollutant(次要污染物名稱)、MinorPollutantAQI(次要污染物指標預報值)、PublishTime(發布時間)
+檔案格式: 
+JSON
+編碼格式: 
+UTF-8
+資料量: 
+資料下載網址: 
+https://data.epa.gov.tw/api/v1/aqf_p_01?limit=100000&api_key=9be7b239-557b-4c10-9775-78cadfc555e9&format=json
+資料資源描述: 
+空氣品質預報資料-JSON
+資料資源更新時間: 
+close

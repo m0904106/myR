@@ -1,0 +1,12 @@
+資料資源欄位: 
+Site(測站名稱)、county(縣市名稱)、PM25(細懸浮微粒濃度)、DataCreationDate(資料建置日期)、ItemUnit(測項單位)
+檔案格式: 
+JSON
+編碼格式: 
+UTF-8
+資料量: 
+資料下載網址: 
+https://data.epa.gov.tw/api/v1/aqx_p_02?limit=100000&api_key=9be7b239-557b-4c10-9775-78cadfc555e9&format=json
+資料資源描述: 
+細懸浮微粒資料（PM2.5）-JSON
+資料資源更新時間: 
